@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "250345509349",
+    "project_id": "simpliifitness",
+    "storage_bucket": "simpliifitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250345509349:android:487d969a98c60d413f5f0c",
+        "android_client_info": {
+          "package_name": "com.example.simplii_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250345509349-p0b2pihd3mqh79ef77r6f2ql0frvjb3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4sUK93kYnl_JZHNp0xhPj9BTyKucnCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250345509349-btee6d7b4ta2q1ucf0oei03djq9vg5b7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "250345509349-7c4kfjv00n977da9io7ot62e9lul63rv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.simpliiFitness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
